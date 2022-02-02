@@ -1,6 +1,6 @@
 # git-test
 Test repo
-Hello odin
+line one
 adding more
 
 testing commit message
